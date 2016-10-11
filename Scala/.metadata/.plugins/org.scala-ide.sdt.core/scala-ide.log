@@ -1,0 +1,59 @@
+2016-10-11 16:16:48,997 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:17:02,290  WARN [ModalContext] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:17:02,292  WARN [ModalContext] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:17:04,022  WARN [Worker-8] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:17:04,022  WARN [Worker-8] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:17:30,200 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.ui.launchConfigurations.JavaLaunchTab
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:17:30,310 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:20:29,013  WARN [main] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:20:29,014  WARN [main] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:20:30,662  WARN [Worker-13] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:20:30,662  WARN [Worker-13] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:20:31,125  WARN [Java indexing] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:20:31,126  WARN [Java indexing] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:20:32,725  WARN [Worker-10] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:20:32,726  WARN [Worker-10] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:20:34,392  WARN [Worker-1] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:20:34,392  WARN [Worker-1] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:20:40,077 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:23:10,610  WARN [Worker-13] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:23:10,610  WARN [Worker-13] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:32:21,653 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:32:31,894  WARN [main] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:32:31,895  WARN [main] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:32:32,261  WARN [main] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:32:32,261  WARN [main] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:33:01,570 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.ToggleBreakpointAdapter
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:33:01,731 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2016-10-11 16:37:27,382  WARN [Worker-5] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:37:27,383  WARN [Worker-5] - ScalaProject - Project ParadigmsScala runs on platform default installation.
+2016-10-11 16:37:27,449  WARN [Worker-5] - ScalaProject - Project ParadigmsScala has platform default sourceLevel.
+2016-10-11 16:37:27,449  WARN [Worker-5] - ScalaProject - Project ParadigmsScala runs on platform default installation.
